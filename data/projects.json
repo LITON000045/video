@@ -1,0 +1,163 @@
+{
+  "projects": [
+    {
+      "id": "wedding-highlights-2024",
+      "title": "Sarah & Michael's Wedding Highlights",
+      "description": "A beautiful cinematic highlights reel capturing the emotional moments and stunning visuals from Sarah and Michael's unforgettable wedding day at the vineyard.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/wedding-sarah-michael.jpg",
+      "tags": ["wedding", "cinematic", "highlights"],
+      "featured": true,
+      "client": "Sarah & Michael Johnson",
+      "year": "2024",
+      "duration": "4:32"
+    },
+    {
+      "id": "commercial-boutique-2024",
+      "title": "Elysian Fashion Boutique - Spring Collection",
+      "description": "Elegant commercial showcasing the latest spring collection from Elysian Fashion Boutique, featuring models and stunning cinematography.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/commercial-elysian.jpg",
+      "tags": ["commercial", "fashion", "branding"],
+      "featured": true,
+      "client": "Elysian Fashion Boutique",
+      "year": "2024",
+      "duration": "2:15"
+    },
+    {
+      "id": "music-video-indie-2023",
+      "title": "Midnight Dreams - Indie Music Video",
+      "description": "A dreamy, atmospheric music video for indie artist Luna Rose's latest single 'Midnight Dreams', featuring visual storytelling and artistic editing.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/music-luna-rose.jpg",
+      "tags": ["music-video", "indie", "artistic"],
+      "featured": true,
+      "client": "Luna Rose Music",
+      "year": "2023",
+      "duration": "3:45"
+    },
+    {
+      "id": "corporate-event-2024",
+      "title": "TechCorp Annual Summit 2024",
+      "description": "Dynamic coverage of TechCorp's annual summit, featuring keynote speeches, networking moments, and event highlights with professional editing.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/event-techcorp.jpg",
+      "tags": ["event", "corporate", "highlights"],
+      "featured": false,
+      "client": "TechCorp Industries",
+      "year": "2024",
+      "duration": "5:20"
+    },
+    {
+      "id": "wedding-intimate-2024",
+      "title": "Emma & James' Intimate Garden Wedding",
+      "description": "An intimate garden wedding celebration with Emma and James, focusing on personal moments and emotional storytelling through cinematic editing.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/wedding-emma-james.jpg",
+      "tags": ["wedding", "intimate", "garden"],
+      "featured": false,
+      "client": "Emma & James Davis",
+      "year": "2024",
+      "duration": "3:58"
+    },
+    {
+      "id": "social-media-campaign-2024",
+      "title": "FreshStart Organic - Social Media Campaign",
+      "description": "A series of short, engaging videos for FreshStart Organic's social media campaign, featuring product highlights and customer testimonials.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/social-freshstart.jpg",
+      "tags": ["social-media", "campaign", "organic"],
+      "featured": false,
+      "client": "FreshStart Organic",
+      "year": "2024",
+      "duration": "1:30"
+    },
+    {
+      "id": "documentary-local-2023",
+      "title": "Main Street Stories: Local Business Documentary",
+      "description": "A heartfelt documentary showcasing the stories of local business owners on Main Street, highlighting community spirit and entrepreneurship.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/documentary-mainstreet.jpg",
+      "tags": ["documentary", "community", "storytelling"],
+      "featured": false,
+      "client": "Main Street Association",
+      "year": "2023",
+      "duration": "12:45"
+    },
+    {
+      "id": "commercial-restaurant-2024",
+      "title": "Bella Vista Restaurant - Culinary Experience",
+      "description": "A mouth-watering commercial for Bella Vista Restaurant, showcasing their signature dishes and elegant dining atmosphere.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/commercial-bellavista.jpg",
+      "tags": ["commercial", "restaurant", "culinary"],
+      "featured": false,
+      "client": "Bella Vista Restaurant",
+      "year": "2024",
+      "duration": "1:45"
+    },
+    {
+      "id": "music-video-pop-2023",
+      "title": "Neon Nights - Pop Music Video",
+      "description": "A vibrant, high-energy pop music video for artist DJ Phoenix, featuring colorful visuals and dynamic editing synchronized to the beat.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/music-djphoenix.jpg",
+      "tags": ["music-video", "pop", "vibrant"],
+      "featured": false,
+      "client": "DJ Phoenix",
+      "year": "2023",
+      "duration": "3:22"
+    },
+    {
+      "id": "wedding-destination-2023",
+      "title": "Beach Paradise Destination Wedding",
+      "description": "Stunning destination wedding coverage from a tropical beach ceremony, featuring breathtaking scenery and romantic moments.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/wedding-destination.jpg",
+      "tags": ["wedding", "destination", "beach"],
+      "featured": false,
+      "client": "Amanda & Carlos Rodriguez",
+      "year": "2023",
+      "duration": "6:15"
+    },
+    {
+      "id": "social-media-product-2024",
+      "title": "GlowSkincare - Product Launch Series",
+      "description": "A series of polished social media videos for GlowSkincare's new product launch, featuring tutorials and customer testimonials.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/social-glowskincare.jpg",
+      "tags": ["social-media", "beauty", "product-launch"],
+      "featured": false,
+      "client": "GlowSkincare",
+      "year": "2024",
+      "duration": "0:45"
+    },
+    {
+      "id": "corporate-training-2024",
+      "title": "GlobalTech Employee Training Series",
+      "description": "Professional training video series for GlobalTech's new software implementation, featuring clear explanations and screen recordings.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "thumbnail": "thumbnails/corporate-globaltech.jpg",
+      "tags": ["corporate", "training", "educational"],
+      "featured": false,
+      "client": "GlobalTech Solutions",
+      "year": "2024",
+      "duration": "8:30"
+    }
+  ],
+  "featuredOrder": ["wedding-highlights-2024", "commercial-boutique-2024", "music-video-indie-2023"],
+  "settings": {
+    "siteTitle": "Video Editor Portfolio",
+    "siteDescription": "Professional video editing services and portfolio showcase",
+    "contactEmail": "hello@yourname.com",
+    "contactPhone": "+1 (555) 123-4567",
+    "socialLinks": {
+      "youtube": "https://youtube.com/yourchannel",
+      "instagram": "https://instagram.com/yourprofile",
+      "linkedin": "https://linkedin.com/in/yourprofile"
+    },
+    "analytics": {
+      "googleAnalyticsId": ""
+    }
+  }
+}
