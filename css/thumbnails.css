@@ -1,0 +1,74 @@
+/* Thumbnail placeholder styles - these will be replaced with actual images */
+
+.thumbnail-placeholder {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.thumbnail-placeholder::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+    0% { left: -100%; }
+    100% { left: 100%; }
+}
+
+/* Specific placeholder styles for different project types */
+.thumbnail-wedding {
+    background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%);
+}
+
+.thumbnail-commercial {
+    background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+}
+
+.thumbnail-music {
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+}
+
+.thumbnail-event {
+    background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+}
+
+.thumbnail-documentary {
+    background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.thumbnail-social {
+    background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.thumbnail-corporate {
+    background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+/* Alternative approach - use online placeholder images */
+/* Uncomment these lines and update projects.json to use online images */
+/*
+img[src$="thumbnails/wedding-sarah-michael.jpg"] {
+    content: url('https://picsum.photos/seed/wedding123/400/300.jpg');
+}
+
+img[src$="thumbnails/commercial-elysian.jpg"] {
+    content: url('https://picsum.photos/seed/fashion456/400/300.jpg');
+}
+
+img[src$="thumbnails/music-luna-rose.jpg"] {
+    content: url('https://picsum.photos/seed/music789/400/300.jpg');
+}
+*/
